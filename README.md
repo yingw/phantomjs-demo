@@ -1,6 +1,6 @@
 # PhantomJS DEMO
 
-演示如何用 PhantomJS 后台截取 web 屏幕并保存渲染结果
+演示如何用 [PhantomJS](http://phantomjs.org/) 后台截取 web 屏幕并保存渲染结果
 
 ## 环境
 下载 https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-2.1.1-windows.zip
@@ -27,3 +27,7 @@
 
 代码参考：https://github.com/yzhang921/CBoard/blob/ff587a1a676eb8a912fbf3a690cec763032fedfb/src/main/java/org/cboard/services/PersistService.java#L31:15
 
+其他官方文档
+- 入门：http://phantomjs.org/quick-start.html
+- 截屏：http://phantomjs.org/screen-capture.html
+- 其他例子：http://phantomjs.org/examples/index.html
